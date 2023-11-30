@@ -13,5 +13,5 @@ jobs:
         uses: maxam2017/productive-box@master
         env:
           GH_TOKEN: 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
-          GIST_ID: https://gist.github.com/sungsik-git/
+          GIST_ID: gist:b45fa1e02ef8f207ed6953994468ee78
           TIMEZONE: Asia/Seoul
